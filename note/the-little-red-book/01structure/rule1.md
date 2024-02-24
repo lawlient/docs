@@ -21,4 +21,4 @@
 
 -------
 
-[目录](write/the-little-red-book/README)
+[目录](note/the-little-red-book/README)
